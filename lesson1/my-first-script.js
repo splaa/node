@@ -1,5 +1,5 @@
 console.log('Hello');
 setTimeout(function(){
-    console.log()
-});
+    console.log('World')
+}, 5000);
 console.log('Bye');
