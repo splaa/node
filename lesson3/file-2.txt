@@ -1,0 +1,3 @@
+Hello - Это файл для тестирования!!!
+//для запроса 
+curl --upload-file file.txt http://localost:8080
